@@ -1,2 +1,2 @@
 # sb-cadastroproduto
-Meu primeiro projeto Spring pessoal que visa cadastrar produtos
+Meu primeiro projeto Spring pessoal que visa cadastrar produtos.
